@@ -1,0 +1,23 @@
+{
+  "name": "soft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+
+    "express": "^5.1.0",
+
+    "nodemon": "^3.1.11",
+
+    "pg": "^8.16.3"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/professorDeveloper/Soft.git"
+  },
+  "private": true
+}
